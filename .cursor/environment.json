@@ -1,0 +1,13 @@
+{
+  "install": "yarn && curl -s https://install.aztec.network | NON_INTERACTIVE=1 BIN_PATH=/usr/local/bin bash -s",
+  "build": {
+    "context": ".",
+    "dockerfile": "Dockerfile"
+  },
+  "terminals": [
+    {
+      "name": "Sandbox",
+      "command": "aztec start --sandbox"
+    }
+  ]
+}
