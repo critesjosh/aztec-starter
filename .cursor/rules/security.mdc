@@ -1,0 +1,22 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Security Rules
+
+## Smart Contract Security
+- Review for common smart contract vulnerabilities
+- Check for reentrancy, overflow, underflow, and unchecked operations
+- Ensure proper access control and state management
+
+## Private Key Security
+- Never commit private keys or sensitive credentials
+- Avoid storing secrets in code or configuration files
+- Use environment variables or secure secret management
+
+## Aztec Privacy
+- Ensure proper privacy measures in Aztec contracts
+- Use private notes and encrypted data appropriately
+- Implement shielded transfers correctly
+

@@ -1,0 +1,24 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Documentation and Testing Rules
+
+## Documentation
+- Add JSDoc comments for all public functions and classes
+- Document complex logic and algorithms
+- Keep README files up to date
+- Use meaningful commit messages
+
+## Testing
+- Write tests for all new features
+- Maintain good test coverage
+- Use descriptive test names
+- Follow testing best practices
+
+## Code Comments
+- Add comments for complex logic
+- Use TODO, FIXME, and NOTE markers appropriately
+- Keep comments up to date
+- Document non-obvious code

@@ -1,0 +1,30 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Code Quality Rules
+
+## Code Style
+- Use TypeScript for all new code
+- Follow consistent naming conventions
+- Keep functions small and focused
+- Avoid code duplication
+
+## Error Handling
+- Implement proper error handling
+- Use try-catch blocks appropriately
+- Provide meaningful error messages
+- Handle edge cases
+
+## Type Safety
+- Use explicit types
+- Avoid using 'any' type
+- Leverage TypeScript's type system
+- Use proper type guards
+
+## Code Organization
+- Follow single responsibility principle
+- Keep functions under 50 lines
+- Use meaningful variable names
+- Avoid deeply nested conditionals

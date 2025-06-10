@@ -1,0 +1,25 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Formatting and Version Control Rules
+
+## Code Formatting
+- Use consistent indentation (2 spaces)
+- Follow TypeScript/JavaScript style guide
+- Maintain consistent spacing
+- Use proper line breaks
+
+## Version Control
+- Write descriptive commit messages
+- Follow conventional commits
+- Keep commits focused and atomic
+- Review code before committing
+
+## Dependency Management
+- Keep dependencies up to date
+- Run security audits regularly
+- Use exact versions in package.json
+- Document dependency changes
+

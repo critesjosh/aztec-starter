@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Aztec Project Rules
+
+This project follows a set of rules and guidelines to maintain code quality, security, and consistency. The rules are organized into the following categories:
+
+## Security
+- Smart contract security best practices
+- Private key management
+- Aztec privacy features
+
+## Code Quality
+- TypeScript/JavaScript best practices
+- Error handling
+- Type safety
+- Code organization
+
+## Documentation
+- Code documentation standards
+- Testing requirements
+- Comment guidelines
+
+## Formatting
+- Code style guidelines
+- Version control practices
+- Dependency management
+
+Each category has its own detailed rules file with specific patterns and examples.
+
